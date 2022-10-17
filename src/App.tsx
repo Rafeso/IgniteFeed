@@ -21,8 +21,8 @@ const posts:Post[] = [
       },
       content: [
          { type: 'paragraph', content: 'Fala galeraa 👋'},
-         { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu github. É um projeto que fiz no Ignite Lab,evento da Rocketseat. O nome do projeto é Code Lab 🚀'},
-         { type: 'link', content: '👉 code-lab-feed.vercel.app/'},        
+         { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu github. É um projeto que fiz no Ignite, Bootcamp da Rocketseat. O nome do projeto é Code + Feed 🚀'},
+         { type: 'link', content: '👉 code-lab-feed.vercel.app'},        
       ],
       publishedAt: new Date('2022-10-20 20:00:00')
    },
