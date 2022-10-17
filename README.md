@@ -137,6 +137,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://docs.github.com/pt/get-started/quickstart/contributing-to-projects)
 
+Ou se preferir, simplesmente faça um clone do repositório e sinta-se livre para fazer a releitura do projeto a sua versão 😎.
+
 ---
 
 ## 🦸 Autor
